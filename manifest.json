@@ -1,0 +1,15 @@
+{
+  "name": "Moves Generator",
+  "short_name": "Moves Gen",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/karate",
+  "display": "standalone",
+  "background_color": "#f5f5f5",
+  "theme_color": "#4a148c"
+}
